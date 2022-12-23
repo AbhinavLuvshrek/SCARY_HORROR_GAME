@@ -1,10 +1,11 @@
 body {
   background-color: black;
   color: red;
+  text-align: center;
 }
 
 h1 {
-  font-family: Hanalei Fill;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 #start {
@@ -12,4 +13,32 @@ h1 {
   background-color: rgba(80, 77, 77, 0.849);
   padding: 10px;
   border-radius: 10px;
+}
+
+#wuss {
+  color: red;
+  background-color: rgba(80, 77, 77, 0.849);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#start:hover {
+  color: red;
+  background-color: rgba(126, 119, 119, 0.849);
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#wuss:hover {
+  color: red;
+  background-color: rgba(155, 151, 151, 0.849);
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#Text {
+  font-size: 37px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
