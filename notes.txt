@@ -1,0 +1,6 @@
+If key === false
+output messgae your do not have the key.
+
+search the drawers, output messgae key obtained
+
+if you meet kevin you will play a mini-game
